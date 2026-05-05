@@ -1,8 +1,8 @@
-Hi, I'm Aaditya 👋
+Hi, I'm Aaditya 
 
-🎓 Computer Engineering Student (SVIT, Vasad)  
-🔐 Cybersecurity Enthusiast  
-💻 Python | Networking | Linux  
+~ Computer Engineering Student (SVIT, Vasad)  
+~ Cybersecurity Enthusiast  
+~ Python | Networking | Linux  
 
 Skills
 - Python (Basics)
