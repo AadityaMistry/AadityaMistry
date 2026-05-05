@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Aaditya 👋
 
-<!--
-**AadityaMistry/AadityaMistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student (SVIT, Vasad)  
+🔐 Cybersecurity Enthusiast  
+💻 Python | Networking | Linux  
 
-Here are some ideas to get you started:
+Skills
+- Python (Basics)
+- Flask (Basic)
+- Networking (OSI, TCP/IP)
+- Cybersecurity Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+- LinkedIn: https://www.linkedin.com/in/aaditya-mistry
